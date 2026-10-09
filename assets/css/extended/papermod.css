@@ -26,6 +26,14 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow:0 2px 4px rgb(5 10 15/5%),0 7px 13px -3px rgb(5 10 15/.3);
 }
 
+.profile .buttons {
+    max-width: 560px;
+}
+
+.profile .button-inner svg {
+    display: none;
+}
+
 .page-header h1 {
     font-size: 36px;
 }

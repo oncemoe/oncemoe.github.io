@@ -22,6 +22,8 @@ params:
         url: posts
       - name: 🙋🏻‍♂️Resume
         url: about/resume.pdf
+      - name: 📖Papers
+        url: https://cc.laoqi.cc/
 
 menu:
   main:
